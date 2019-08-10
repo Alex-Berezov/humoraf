@@ -1,9 +1,7 @@
-<?php 
-/**
- * Главная страница сайта
- *
- * 
- */
+<?php
+/*
+Template Name: Home
+*/
 ?>
 
 <?php get_header(); ?>
